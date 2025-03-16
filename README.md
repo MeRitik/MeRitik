@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Smart Contact Manager.**
 
-- 🌱 I’m currently learning **Java Spring, Flutter.**
+- 🌱 I’m currently learning **Java Spring, ReactJS.**
 
 - 📫 How to reach me **ritikranjan999@gmail.com**
 
