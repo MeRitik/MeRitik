@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java Spring, ReactJS.**
 
-- 📫 How to reach me **ritikranjan999@gmail.com**
+- 📫 How to reach me **rranjan065.mca2023@ca.nitrr.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
