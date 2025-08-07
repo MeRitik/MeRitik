@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meritik&label=Profile%20views&color=0e75b6&style=flat" alt="meritik" /> </p>
 
-- 🌱 I’m currently learning **Java Spring, ReactJS.**
+- 🌱 I’m currently learning **Spring, ReactJS.**
 
 - 📫 How to reach me **rranjan065.mca2023@ca.nitrr.ac.in**
 
