@@ -4,7 +4,7 @@ Learning Distributed Systems and System Design.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meritik&label=Profile%20views&color=0e75b6&style=flat" alt="meritik" /> </p>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imritikranjan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/imritikranjan](https://www.linkedin.com/in/iritikranjan/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rranjan065.mca2023@ca.nitrr.ac.in) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/imritikranjan](https://www.linkedin.com/in/iritikranjan/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rranjan065.mca2023@ca.nitrr.ac.in) 
 
 
 # 💻 Tech Stack:
