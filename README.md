@@ -2,6 +2,7 @@
 Learning Distributed Systems and System Design.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meritik&label=Profile%20views&color=0e75b6&style=flat" alt="meritik" /> </p>
+[![wakatime](https://wakatime.com/badge/user/74e8edc0-3233-4ed2-883b-1c3f722728e2.svg)](https://wakatime.com/@74e8edc0-3233-4ed2-883b-1c3f722728e2)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/imritikranjan](https://www.linkedin.com/in/iritikranjan/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rranjan065.mca2023@ca.nitrr.ac.in) 
